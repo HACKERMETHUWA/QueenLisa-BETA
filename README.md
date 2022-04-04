@@ -16,9 +16,11 @@
 - ✍️ **เ ค๓ lєคгภเภɠ թг๏ɠгค๓๓เภɠ..**
 -->
 
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://wa.me/94762321886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Methuwa2007" height="30" width="40" /></a>
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/94762321886"><img src="https://img.shields.io/badge/Contact Methuwa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Methuwa-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ` BUILDPACKS`
